@@ -8085,35 +8085,35 @@ FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕✅TSN1HD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN1HD
 http://185.246.209.113:80/TSN1HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕✅TSN2HD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN2HD
 http://185.246.209.113:80/TSN2HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕✅TSN3HD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN3HD
 http://185.246.209.113:80/TSN3HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕✅TSN4HD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN4HD
 http://185.246.209.113:80/TSN4HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕✅TSN5HD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 16",🆕✅TSN5HD
 http://185.246.209.113:80/TSN5HD/index.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕F1 TV US✅
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
-#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕F1 TV US✅
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",Golazo Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",Golazo Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",Golazo Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",Golazo Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
@@ -8560,20 +8560,7 @@ http://185.246.209.113:80/TSN4HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 (TSN5HD)
 http://185.246.209.113:80/TSN5HD/index.m3u8
 
-#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (CIGNAL TV)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (CIGNAL TV 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
-
-NF:-1 tvg-name="FIFA World Cup"tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (Mono 29 Thai)
+#EXTINF:-1  tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (Mono 29 Thai)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
