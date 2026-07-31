@@ -10221,6 +10221,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",GTV(+) (317)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",INEWS(+) (317)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
+
+
 #EXTINF:-1 group-title="BOLA | ASEAN CHAMPIONSHIP 2026" tvg-name="GTV" tvg-logo="https://i.imgur.com/X6EEubm.jpeg",GTV(R+) 2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
